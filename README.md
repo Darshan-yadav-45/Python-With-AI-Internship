@@ -5,7 +5,8 @@
 
 **Student Name:** Darshan K M  
 **College Name:** CMR University, Bengaluru  
-**Programme:** Master of Computer Applications (MCA)  
+**Programme:** Master of Computer Applications (MCA)
+**Email:** darshan.km.091@gmail.com
 **Course:** Python with AI  
 **Project Title:** Student Performance Analytics System  
 **Technologies Used:** Python, NumPy, Pandas  
