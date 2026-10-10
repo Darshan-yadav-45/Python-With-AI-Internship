@@ -4,9 +4,9 @@
 ## Project Documentation
 
 **Student Name:** Darshan K M  
+**Email:** darshan.km.091@gmail.com  
 **College Name:** CMR University, Bengaluru  
-**Programme:** Master of Computer Applications (MCA)
-**Email:** darshan.km.091@gmail.com
+**Programme:** Master of Computer Applications (MCA)  
 **Course:** Python with AI  
 **Project Title:** Student Performance Analytics System  
 **Technologies Used:** Python, NumPy, Pandas  
@@ -322,6 +322,7 @@ computations, data processing, and analytical problem-solving.
 ---
 
 **Submitted by:** Darshan K M  
+**Email:** darshan.km.091@gmail.com  
 **Institution:** CMR University, Bengaluru  
 **Programme:** Master of Computer Applications (MCA)  
 **Course:** Python with AI
