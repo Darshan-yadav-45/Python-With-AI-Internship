@@ -1,0 +1,22 @@
+
+Student_ID,Name,Department,Python_Marks,Mathematics_Marks,Database_Marks,Computer_Networks_Marks,Attendance_Percentage
+STU001,Aarav Sharma,Computer Science,85,78,91,82,92
+STU002,Aditi Reddy,Information Technology,76,81,84,79,88
+STU003,Akash Kumar,Computer Science,42,55,48,61,78
+STU004,Ananya Patil,Mathematics,95,92,96,94,98
+STU005,Arjun Gowda,Information Technology,65,72,68,70,83
+STU006,Bhavana Shetty,Commerce,38,66,74,59,90
+STU007,Chandan Rao,Computer Science,88,85,79,91,87
+STU008,Deepa Naik,Physics,57,63,61,58,76
+STU009,Dhanush Hegde,Information Technology,73,69,77,75,68
+STU010,Divya Murthy,Computer Science,91,89,86,93,95
+STU011,Ganesh Joshi,Mathematics,48,44,52,46,80
+STU012,Harini Desai,Commerce,82,87,80,85,91
+STU013,Kiran Kulkarni,Computer Science,69,74,71,66,74
+STU014,Kavya Bhat,Information Technology,98,94,92,97,99
+STU015,Manoj Nayak,Physics,55,58,62,64,81
+STU016,Megha Verma,Computer Science,77,83,80,78,86
+STU017,Naveen Singh,Mathematics,31,39,45,42,72
+STU018,Nisha Yadav,Information Technology,84,79,88,82,93
+STU019,Pooja Acharya,Commerce,61,67,64,70,77
+STU020,Pranav Poojari,Computer Science,90,86,89,92,84
