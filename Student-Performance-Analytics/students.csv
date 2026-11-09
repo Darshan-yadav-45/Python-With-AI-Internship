@@ -1,4 +1,3 @@
-
 Student_ID,Name,Department,Python_Marks,Mathematics_Marks,Database_Marks,Computer_Networks_Marks,Attendance_Percentage
 STU001,Aarav Sharma,Computer Science,85,78,91,82,92
 STU002,Aditi Reddy,Information Technology,76,81,84,79,88
@@ -8,15 +7,45 @@ STU005,Arjun Gowda,Information Technology,65,72,68,70,83
 STU006,Bhavana Shetty,Commerce,38,66,74,59,90
 STU007,Chandan Rao,Computer Science,88,85,79,91,87
 STU008,Deepa Naik,Physics,57,63,61,58,76
-STU009,Dhanush Hegde,Information Technology,73,69,77,75,68
-STU010,Divya Murthy,Computer Science,91,89,86,93,95
-STU011,Ganesh Joshi,Mathematics,48,44,52,46,80
-STU012,Harini Desai,Commerce,82,87,80,85,91
-STU013,Kiran Kulkarni,Computer Science,69,74,71,66,74
-STU014,Kavya Bhat,Information Technology,98,94,92,97,99
-STU015,Manoj Nayak,Physics,55,58,62,64,81
-STU016,Megha Verma,Computer Science,77,83,80,78,86
-STU017,Naveen Singh,Mathematics,31,39,45,42,72
-STU018,Nisha Yadav,Information Technology,84,79,88,82,93
-STU019,Pooja Acharya,Commerce,61,67,64,70,77
-STU020,Pranav Poojari,Computer Science,90,86,89,92,84
+STU009,Divya Hegde,Information Technology,91,87,93,89,95
+STU010,Farhan Sheikh,Computer Science,33,45,39,50,70
+STU011,Ganesh Iyer,Mathematics,74,88,76,80,85
+STU012,Harini Subramaniam,Computer Science,62,69,65,71,80
+STU013,Ishaan Verma,Information Technology,80,75,83,78,91
+STU014,Jyoti Bhatt,Commerce,47,52,55,49,72
+STU015,Karthik Nair,Computer Science,93,90,88,95,97
+STU016,Kavitha Menon,Physics,68,74,70,66,84
+STU017,Lavanya Krishnan,Mathematics,55,61,58,53,77
+STU018,Mahesh Desai,Information Technology,78,82,80,76,89
+STU019,Meera Pillai,Computer Science,36,42,44,38,65
+STU020,Mohammed Raza,Information Technology,83,79,86,84,93
+STU021,Nandini Joshi,Commerce,61,67,63,65,82
+STU022,Nikhil Pandey,Computer Science,70,76,72,74,86
+STU023,Pooja Saxena,Mathematics,87,91,85,88,94
+STU024,Pranav Kulkarni,Information Technology,44,50,46,48,71
+STU025,Priya Murthy,Computer Science,96,94,97,98,99
+STU026,Rahul Bose,Physics,53,58,56,60,75
+STU027,Ravi Tiwari,Computer Science,67,73,69,71,88
+STU028,Rekha Ghosh,Information Technology,81,77,84,79,90
+STU029,Rohit Sinha,Commerce,39,48,43,41,68
+STU030,Sahana Rao,Computer Science,75,80,77,73,87
+STU031,Sameer Lal,Mathematics,89,85,91,87,96
+STU032,Sangeetha Nair,Information Technology,58,64,61,55,79
+STU033,Sanjay Patel,Computer Science,72,78,74,76,83
+STU034,Shruti Deshmukh,Physics,84,88,82,86,92
+STU035,Siddharth Kapoor,Information Technology,46,53,49,47,73
+STU036,Sneha Thakur,Computer Science,90,92,88,91,95
+STU037,Suresh Babu,Commerce,63,70,66,68,81
+STU038,Tanvi Jain,Mathematics,77,83,79,81,89
+STU039,Tejas Kulkarni,Computer Science,34,40,37,43,62
+STU040,Uma Devi,Information Technology,86,80,89,83,94
+STU041,Varun Nambiar,Computer Science,52,59,54,56,76
+STU042,Vidya Lakshmi,Mathematics,92,96,94,90,98
+STU043,Vijay Reddy,Information Technology,69,75,71,73,85
+STU044,Vinayak Bhosle,Computer Science,43,49,46,51,74
+STU045,Vishal Gupta,Physics,79,84,76,82,91
+STU046,Yash Mehta,Information Technology,97,93,95,91,96
+STU047,Yogita Sharma,Computer Science,60,66,62,64,80
+STU048,Zara Khan,Commerce,48,54,51,45,69
+STU049,Nitin Pawar,Computer Science,73,79,75,77,86
+STU050,Riya Das,Information Technology,88,84,90,86,93
